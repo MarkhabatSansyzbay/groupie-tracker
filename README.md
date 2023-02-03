@@ -9,11 +9,7 @@ You can read more about this project [here](https://github.com/01-edu/public/tre
 2. Once the server is started, open the page in the browser using the correct port or you can use the link that will be in the terminal.
 3. In the web page you can see cards with artists. You can use this cards to see more info about the artist.
 
-### Authors
-
-[AidanaErbolatova](https://01.alem.school/git/AidanaErbolatova) && [Markhabat](https://01.alem.school/git/Markhabat)
-
-### This project will help you learn about :
+### This project consists of :
 
 - Manipulation and storage of data.
 - JSON files and format.
